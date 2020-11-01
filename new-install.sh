@@ -1,1 +1,4 @@
-ls
+#!/bin/bash
+
+echo "hi"
+exit
